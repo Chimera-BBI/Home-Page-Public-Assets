@@ -287,7 +287,7 @@
   }
   .el:nth-child(1) .el__bg:before {
     transition-delay: 0s;
-    background-image: url("../images/1.jpg");
+    background-image: url("1.jpg");
   }
   .el:nth-child(2) {
     transform: translate3d(103.0612244898%, 0, 0);
@@ -316,7 +316,7 @@
   }
   .el:nth-child(2) .el__bg:before {
     transition-delay: 0.1s;
-    background-image: url("../images/2.jpg");
+    background-image: url("2.jpg");
   }
   .el:nth-child(3) {
     transform: translate3d(206.1224489796%, 0, 0);
@@ -345,7 +345,7 @@
   }
   .el:nth-child(3) .el__bg:before {
     transition-delay: 0.2s;
-    background-image: url("../images/3.jpg");
+    background-image: url("3.jpg");
   }
   .el:hover .el__bg:after {
     opacity: 0;
